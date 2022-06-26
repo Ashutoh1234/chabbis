@@ -1,2 +1,2 @@
 # chabbis
-Fun
+Fun & Learn
